@@ -6,12 +6,13 @@ Auto-level your Last Meadow badge on Discord.
 
 The script uses Discord's internal API:
 
--   `POST /gorilla/activity/gathering/start` → starts gathering\
+-   `POST /gorilla/activity/gathering/start` → starts gathering
 -   `POST /gorilla/activity/gathering/complete` → completes it and gives
     XP
 
-It loops continuously and prints: - your level\
-- XP gained\
+It loops continuously and prints:
+- your level
+- XP gained
 - resources collected
 
 ## Requirements
