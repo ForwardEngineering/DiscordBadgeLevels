@@ -1,4 +1,4 @@
-# Discord Badge Levels
+# DiscordBadgeLevels
 
 Auto-level your Last Meadow badge on Discord.
 
