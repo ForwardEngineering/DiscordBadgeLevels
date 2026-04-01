@@ -56,6 +56,6 @@ python auto.py
 
 ## Notes
 
--   You need the Last Meadow badge unlocked\
--   Runs until you stop it\
+-   You need the Last Meadow badge unlocked
+-   Runs until you stop it
 -   Retries automatically if it fails
