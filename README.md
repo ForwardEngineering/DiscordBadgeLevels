@@ -28,8 +28,8 @@ pip install requests
 
 1.  Get your Discord token
 
--   Open Discord in browser\
--   Press F12 → Console\
+-   Open Discord in browser
+-   Press F12 → Console
 -   Paste this and press Enter:
 
 ``` js
